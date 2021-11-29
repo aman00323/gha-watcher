@@ -1,0 +1,6 @@
+{
+  "repos":[{
+    "name": "<org>/<repo>",
+    "max_minutes": 20
+  }]
+}
